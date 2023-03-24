@@ -4,5 +4,5 @@
 
 ## SponsorMe
 
-<img src="http://yunog.cn/wxpay.png" style="width:200px; height:280px" >
-<img src="http://yunog.cn/alipay.jpg" style="width:200px; height:280px">
+<img src="http://yunog.cn/wxpay.png" width="200" height="280" >
+<img src="http://yunog.cn/alipay.jpg" width="200" height="280">
